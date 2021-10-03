@@ -17,6 +17,6 @@ On the css style sheet I rearranged the styling and condenced where needed.
 
 ## Screen Shot:
 
-!{Alt text} (Develop\assets\images\Screenshot 2021-10-03 134554.png)
+![screen shot of project] ./assets\images\online-reputation-management.jpg
 
 ## Link to site:
