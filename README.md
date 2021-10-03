@@ -1,2 +1,3 @@
-# Code Refactor Starter Code
-# urban-octo-telegram
+# _{Urban Octo Telegram}_
+
+#### By _**{Jordan Ophoff}**_
