@@ -2,7 +2,7 @@
 
 #### By Jordan Ophoff
 
-#### Fixed the codebase so that it followed accessibility standars so that the site is optomized for search engines.
+#### Fixed the codebase so that it follows accessibility standards so that the site is optimized for search engines.
 
 ## Technologies Used
 
