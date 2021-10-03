@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-/* hero section */
+/* hero */
 
 .hero {
     height: 800px;
@@ -131,7 +131,7 @@ p {
     font-size: 36px;
 }
 
-/* benefit section */
+/* benefits */
 
 .benefits {
     margin-right: 20px;
@@ -192,7 +192,7 @@ p {
     max-width: 150px;
 }
 
-/* footer sectiom */
+/* footer */
 
 .footer {
     padding: 30px;
